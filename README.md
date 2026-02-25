@@ -1,16 +1,33 @@
-## Hi there 👋
 
-<!--
-**sonuprajapati78/sonuprajapati78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--# Hi, I'm Sonu Prajapati 👋
 
-Here are some ideas to get you started:
+🚀 Frontend Developer Intern  
+💻 Working on Live Website Enhancements & UI Improvements  
+🌱 Currently improving my skills in JavaScript & modern frontend development  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Skills
+- HTML
+- CSS
+- JavaScript
+- Responsive Web Design
+- Basic Git & GitHub
+
+---
+
+## 💼 What I’m Working On
+- Improving real-world website UI
+- Fixing layout & responsiveness issues
+- Enhancing user experience
+
+---
+
+## 🎯 Career Goal
+To secure a full-time frontend developer role where I can contribute to real-world projects and grow as a developer.
+
+---
+
+## 📫 Connect With Me
+LinkedIn: (https://www.linkedin.com/in/sonuprajapati78/)
+contact: 7827408612

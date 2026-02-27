@@ -1,55 +1,70 @@
 <h1 align="center">
-  <span style="font-size:40px; font-weight:bold; color:#4CAF50;">
+  <span style="font-size:42px; font-weight:bold; color:#2563EB;">
     Sonu Prajapati
   </span>
 </h1>
 
-<h3 align="center">
-  Backend Developer | Node.js | REST APIs | Databases
+<h3 align="center" style="color:#16A34A;">
+  Full Stack Developer | Node.js | Frontend & Backend Systems
 </h3>
 
 <p align="center">
-  Focused on building scalable backend systems & real-world applications
+  Building real-world web applications with structured backend architecture and clean frontend design.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sonuprajapati78&label=Profile%20Views&color=4CAF50&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=sonuprajapati78&label=Profile%20Views&color=2563EB&style=for-the-badge" />
 </p>
 
 ---
 
-## 🚧 Currently Building
+## 🚀 Currently Working On
 
-### 📊 Real-Time Call Centre Performance Tracker (In Progress)
+### 📊 AgentPerformance-Pro (In Progress)
 
-🔹 Designing secure role-based authentication system  
-🔹 Implementing daily performance & talk-time tracking  
-🔹 Building structured MVC backend architecture  
-🔹 Optimizing database design for real company use  
+A real-time Call Centre Employee Performance Management System.
 
-> 🚀 This project is being built as a production-ready internal company system.
+🔹 Role-Based Authentication (Admin & Employee)  
+🔹 Daily Performance & Talk-Time Tracking  
+🔹 Target vs Achievement Monitoring  
+🔹 Secure Backend APIs (Node.js + Express)  
+🔹 Structured MVC Architecture  
+🔹 MongoDB Database Design  
+
+> ⚡ Goal: Build a production-ready internal company system.
 
 ---
 
 ## 🧑‍💻 About Me
 
-- Backend developer passionate about API design & clean architecture  
-- Focused on writing structured and maintainable code  
-- Learning advanced backend & system design concepts  
-- Goal: Build scalable, production-ready applications  
+- Full Stack Developer (Frontend + Backend)
+- Strong focus on backend logic & database structure
+- Improving system design & clean architecture skills
+- Passionate about building scalable applications
 
 ---
 
 ## ⚙️ Tech Stack
 
-### 🚀 Backend
+### 🎨 Frontend
+HTML • CSS • JavaScript • Responsive UI Design  
+
+### 🛠 Backend
 Node.js • Express.js • REST APIs • JWT Authentication  
 
-### 🗄️ Database
+### 🗄 Database
 MongoDB • MySQL  
 
-### 🛠️ Tools
+### 🔧 Tools
 Git • GitHub • Postman • VS Code  
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sonuprajapati78&show_icons=true&theme=default" />
+</p>
 
 ---
 
@@ -61,5 +76,5 @@ Git • GitHub • Postman • VS Code
 ---
 
 <p align="center">
-  <b>Building Consistently • Improving Daily • Growing as a Developer 🚀</b>
+  <b style="color:#2563EB;">Code • Build • Improve • Repeat 🚀</b>
 </p>

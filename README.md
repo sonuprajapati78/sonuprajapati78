@@ -1,33 +1,65 @@
+<h1 align="center">
+  <span style="font-size:40px; font-weight:bold; color:#4CAF50;">
+    Sonu Prajapati
+  </span>
+</h1>
 
-<!--# Hi, I'm Sonu Prajapati 👋
+<h3 align="center">
+  Backend Developer | Node.js | REST APIs | Databases
+</h3>
 
-🚀 Frontend Developer Intern  
-💻 Working on Live Website Enhancements & UI Improvements  
-🌱 Currently improving my skills in JavaScript & modern frontend development  
+<p align="center">
+  Focused on building scalable backend systems & real-world applications
+</p>
 
----
-
-## 🛠 Skills
-- HTML
-- CSS
-- JavaScript
-- Responsive Web Design
-- Basic Git & GitHub
-
----
-
-## 💼 What I’m Working On
-- Improving real-world website UI
-- Fixing layout & responsiveness issues
-- Enhancing user experience
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sonuprajapati78&label=Profile%20Views&color=4CAF50&style=for-the-badge" />
+</p>
 
 ---
 
-## 🎯 Career Goal
-To secure a full-time frontend developer role where I can contribute to real-world projects and grow as a developer.
+## 🚧 Currently Building
+
+### 📊 Real-Time Call Centre Performance Tracker (In Progress)
+
+🔹 Designing secure role-based authentication system  
+🔹 Implementing daily performance & talk-time tracking  
+🔹 Building structured MVC backend architecture  
+🔹 Optimizing database design for real company use  
+
+> 🚀 This project is being built as a production-ready internal company system.
+
+---
+
+## 🧑‍💻 About Me
+
+- Backend developer passionate about API design & clean architecture  
+- Focused on writing structured and maintainable code  
+- Learning advanced backend & system design concepts  
+- Goal: Build scalable, production-ready applications  
+
+---
+
+## ⚙️ Tech Stack
+
+### 🚀 Backend
+Node.js • Express.js • REST APIs • JWT Authentication  
+
+### 🗄️ Database
+MongoDB • MySQL  
+
+### 🛠️ Tools
+Git • GitHub • Postman • VS Code  
 
 ---
 
 ## 📫 Connect With Me
-LinkedIn: (https://www.linkedin.com/in/sonuprajapati78/)
-contact: 7827408612
+
+📧 your-email@gmail.com  
+💼 LinkedIn: Add your LinkedIn link  
+
+---
+
+<p align="center">
+  <b>Building Consistently • Improving Daily • Growing as a Developer 🚀</b>
+</p>

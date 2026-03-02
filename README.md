@@ -42,10 +42,11 @@ Git • GitHub • Postman • VS Code
 ## 📞 Contact
 
 🔗 LinkedIn:  
-https://www.linkedin.com/in/YOUR-LINKEDIN-ID
+https://www.linkedin.com/in/sonuprajapati78/
+
 
 📧 Email:  
-your-email@gmail.com
+sonukumarsonu23982@gmail.com
 
 📱 Phone:  
 +91 7827408612

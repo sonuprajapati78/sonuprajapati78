@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sonu Prajapati</h1>
 
-<h3 align="center">🚀 Aspiring Backend Developer | Node.js & Express.js</h3>
+<h3 align="center">🚀 Backend Developer (Node.js | Express.js)</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Backend+Developer;Node.js+%7C+Express.js;Building+Real-World+Projects;Open+to+Internships+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Backend+Developer;Node.js+%7C+Express.js;Building+Scalable+Projects;Focused+on+Real-World+Applications🚀" />
 </p>
 
 ---
@@ -11,10 +11,10 @@
 ## 👨‍💻 About Me  
 
 <p align="center">
-💻 Backend Developer in Progress <br/>
+💻 Backend-focused Developer <br/>
 🎓 B.Tech CSE Student <br/>
-🚀 Building Real-World Projects <br/>
-📈 Focused on Growth & Consistency
+🚀 Building a Production-Level Project (Airbnb Clone) <br/>
+📈 Consistently improving & learning real-world development
 </p>
 
 ---
@@ -22,24 +22,29 @@
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,git,github,postman,mongodb" />
 </p>
 
 ---
 
-## 🚀 Projects  
+## 🚀 Major Project  
 
-### 🏡 Airbnb Backend (Major Project)
-- Node.js & Express based scalable backend  
-- Clean modular architecture  
-- Working on authentication & database  
+### 🏡 Airbnb Clone (Production-Level Project)
 
----
+<p align="center">
+⚡ Currently building a full backend system inspired by real-world Airbnb architecture
+</p>
 
-### 📊 Performance Tracker System
-- Excel → API data processing  
-- Performance calculation logic  
-- Top performers ranking system  
+- Designing scalable backend using Node.js & Express  
+- Building REST APIs (CRUD, Authentication, Authorization)  
+- Implementing secure user login & session handling  
+- Working with MongoDB database (schema design & relations)  
+- Handling real-world features like bookings, listings & users  
+- Writing clean, modular & production-ready code  
+
+<p align="center">
+⏳ Project in progress — aiming to complete within 1 month with full functionality
+</p>
 
 ---
 
@@ -56,8 +61,8 @@
 ## 🎯 Goals  
 
 <p align="center">
-✔️ Build strong backend systems <br/>
-✔️ Work on real-world projects <br/>
+✔️ Build production-level backend systems <br/>
+✔️ Master Node.js & system design <br/>
 ✔️ Get internship in backend development
 </p>
 
@@ -79,4 +84,4 @@
 
 ---
 
-<h3 align="center">✨ Building • Learning • Growing Every Day 🚀</h3>
+<h3 align="center">🔥 Building a Real Product, Not Just Projects 🚀</h3>
